@@ -1,0 +1,8 @@
+git init
+gid status
+git add .
+git commit
+git push
+what is remote
+pull request
+cherry pick
